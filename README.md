@@ -1,7 +1,12 @@
 <div align="center">
 
+<!-- Exynteria Logo -->
+<img src="https://exynteria.club/Data/Icons/exynteria.png" width="120" alt="Exynteria Logo" />
+
+<br/>
+
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <br/>
 
@@ -74,9 +79,9 @@
 
 ### Connect with Me
 
+[![Exynteria](https://img.shields.io/badge/Exynteria-00599C?style=for-the-badge&logo=firefox&logoColor=white)](https://exynteria.club)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Exynteria)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Exynteria)
-[![Website](https://img.shields.io/badge/Exynteria-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://exynteria.club)
 
 <br/>
 

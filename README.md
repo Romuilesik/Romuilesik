@@ -5,7 +5,7 @@
 
 <br/>
 
-### 👾 C++ & Python Developer | Low-Level Systems & Memory Manipulation
+### C++ & Python Developer | Low-Level Systems & Memory Manipulation
 *Building performant software, custom tools & exploring application internals.*
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br/>
 
-<!-- Glowing Badges -->
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,21 +29,21 @@
 
 <br/>
 
-## ⚡ About Me
+## About Me
 
-- 🚀 **Role:** Exynteria Owner & Software Developer
-- 💻 **Primary Focus:** C++23, Python 3, Low-Level Systems & Memory Reading/Writing
-- 🎯 **Specialties:** Pattern scanning, Win32 API, JSON data handling, system hooks
-- 🛠️ **Status:** Constantly optimizing code & crafting utility tools
+- **Role:** Exynteria Owner & Software Developer
+- **Primary Focus:** C++23, Python 3, Low-Level Systems & Memory Reading/Writing
+- **Specialties:** Pattern scanning, Win32 API, JSON data handling, system hooks
+- **Status:** Constantly optimizing code & crafting utility tools
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Formats</h4>
+      <h4>Languages & Formats</h4>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <code>Modern C++ / STL</code><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <code>Automation & Scripting</code><br/>
@@ -52,7 +52,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Core Focus & Tools</h4>
+      <h4>Core Focus & Tools</h4>
       <p>
         <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" /> <code>Memory Reading/Writing</code><br/>
         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /> <code>IDE & Debugging</code><br/>
@@ -65,9 +65,18 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Activity & Stats
 
 <div align="center">
+
+<!-- GitHub Snake Animation (Eats contribution graph) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
 
 <table border="0">
   <tr>
@@ -85,6 +94,11 @@
 <!-- Commit Streak Stats Widget -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romuilesik&theme=tokyonight&hide_border=true" width="90%" />
 
+<br/><br/>
+
+<!-- Dynamic Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romuilesik&theme=tokyo-night&hide_border=true" width="100%" />
+
 </div>
 
 <br/>
@@ -94,24 +108,9 @@
 
 <br/>
 
-## 🚀 Projects & Focus Areas
-
-<details>
-<summary><b>📂 Click to expand project list</b></summary>
-
-| Project | Technologies | Description |
-| :--- | :---: | :--- |
-| **Exynteria** | `C++23` `Memory Mgmt` | Primary software project & utility solutions |
-| **Offset Dumpers** | `C++` `Win32 API` | Automated offset finder & memory pattern scanning |
-| **Custom Tools** | `Python` `JSON` | Automation scripts & helper tools |
-
-</details>
-
-<br/>
-
 <div align="center">
 
-### 📬 Connect with Me
+### Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Exynteria)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Exynteria)

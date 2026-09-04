@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Exynteria Logo -->
-<img src="https://exynteria.club/Data/Icons/exynteria.png" width="120" alt="Exynteria Logo" />
-
-<br/>
-
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
+
+<br/><br/>
+
+<!-- Exynteria Logo -->
+<img src="https://exynteria.club/Data/Icons/exynteria.png" width="120" alt="Exynteria Logo" />
 
 <br/>
 

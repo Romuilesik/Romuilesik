@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Romuilesik%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <br/>
 
@@ -14,7 +13,6 @@
 
 <br/>
 
-<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,8 +20,7 @@
   <img src="https://img.shields.io/badge/Reverse_Engineering-D9381E?style=for-the-badge&logo=binary&logoColor=white" />
 </p>
 
-<!-- Animated Neon Divider Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-812d-d005380b0f22.gif" width="100%" />
+<img src="https://assets.capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
 
 </div>
 
@@ -69,15 +66,6 @@
 
 <div align="center">
 
-<!-- GitHub Snake Animation (Eats contribution graph) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/Romuilesik/Romuilesik/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<br/><br/>
-
 <table border="0">
   <tr>
     <td>
@@ -91,20 +79,17 @@
 
 <br/>
 
-<!-- Commit Streak Stats Widget -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romuilesik&theme=tokyonight&hide_border=true" width="90%" />
 
 <br/><br/>
 
-<!-- Dynamic Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Romuilesik&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 <br/>
 
-<!-- Animated Neon Divider Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-812d-d005380b0f22.gif" width="100%" />
+<img src="https://assets.capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -118,7 +103,6 @@
 
 <br/>
 
-<!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=Romuilesik&color=blue&style=flat-square)
 
 </div>

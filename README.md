@@ -3,21 +3,17 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
 
-<br/><br/>
-
-<!-- Exynteria Logo -->
-<img src="https://exynteria.club/Data/Icons/exynteria.png" width="120" alt="Exynteria Logo" />
-
-<br/>
+<!-- Exynteria Logo (Strictly Centered with Small Margins) -->
+<p align="center" style="margin-top: 10px; margin-bottom: 15px;">
+  <img src="https://exynteria.club/Data/Icons/exynteria.png" width="110" alt="Exynteria Logo" />
+</p>
 
 ### C++ & Python Developer | Low-Level Systems & Memory Manipulation
 *Building performant software, custom tools & exploring application internals.*
 
-<p align="center">
+<p align="center" style="margin-top: 10px; margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/Focus-C%2B%2B23_%7C_Memory_Mgmt_%7C_Speed-00599C?style=flat-square" />
 </p>
-
-<br/>
 
 <!-- Badges -->
 <p align="center">

@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Ro%D0%BC%D0%BA%D0%B0%D0%A0%20%E2%9A%A1&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=38" width="100%" />
 
 <br/>
@@ -13,6 +14,7 @@
 
 <br/>
 
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,7 +22,8 @@
   <img src="https://img.shields.io/badge/Reverse_Engineering-D9381E?style=for-the-badge&logo=binary&logoColor=white" />
 </p>
 
-<img src="https://assets.capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
+<!-- Animated Divider Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
 
 </div>
 
@@ -62,34 +65,8 @@
 
 <br/>
 
-## GitHub Activity & Stats
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Romuilesik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romuilesik&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Romuilesik&theme=tokyonight&hide_border=true" width="90%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Romuilesik&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<img src="https://assets.capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
+<!-- Animated Divider Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -103,6 +80,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Romuilesik&color=blue&style=flat-square)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Romuilesik&color=00599c&style=flat-square" />
 
 </div>
